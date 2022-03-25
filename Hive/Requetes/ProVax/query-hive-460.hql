@@ -1,0 +1,1 @@
+SELECT user_screen_name,text FROM provax where text like '%consci%' OR text like '% convaincu%' ;

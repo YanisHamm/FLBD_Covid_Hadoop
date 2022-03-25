@@ -1,0 +1,1 @@
+ADD JAR json-serde-1.3-jar-with-dependencies.jar

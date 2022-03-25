@@ -1,0 +1,1 @@
+SELECT user_screen_name,text,created_at FROM provax2 where created_at like '%Dec%' AND created_at like '%2021%' or created_at like '%Oct%' or created_at like '%Nov%';

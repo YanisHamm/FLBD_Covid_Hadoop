@@ -1,0 +1,2 @@
+CREATE EXTERNAL TABLE IF NOT EXISTS AntiVax2 (id string ,  user_friends_count  int , user_location  string , user_description string, user_statuses_count  int,  user_followers_count  int ,  user_name  string, user_screen_name  string, created_at  string , text string,  retweet_count  int , retweeted boolean  , in_reply_to_user_id  int, source string , in_reply_to_status_id  int, media_url_https  string, expanded_url  string)
+ROW FORMAT DELIMITED FIELDS TERMINATED BY ',';

@@ -1,0 +1,1 @@
+SELECT user_screen_name,text,created_at FROM antivax2 where created_at like '%Jul%' AND created_at like '%2021%';
